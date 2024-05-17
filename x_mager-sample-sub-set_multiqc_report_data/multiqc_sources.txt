@@ -1,0 +1,26 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	x_mager_bowtie_merged2StrS	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/bowtie/x_mager_bowtie_merged2StrS.log
+Bowtie 2 / HiSAT2	all_sections	x_mager_bowtie_merged2PhiX	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/bowtie/x_mager_bowtie_merged2PhiX.log
+Bowtie 2 / HiSAT2	all_sections	x_mager_bowtie_merged2StrO	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/bowtie/x_mager_bowtie_merged2StrO.log
+Bowtie 2 / HiSAT2	all_sections	x_mager_bowtie_merged2SC2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/bowtie/x_mager_bowtie_merged2SC2.log
+FastQC	all_sections	ERR6913161_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913161_2_fastqc.zip
+FastQC	all_sections	ERR6913157_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913157_1_fastqc.zip
+FastQC	all_sections	ERR6913253_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913253_1_fastqc.zip
+FastQC	all_sections	ERR6913157_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913157_2_fastqc.zip
+FastQC	all_sections	ERR6913261_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913261_2_fastqc.zip
+FastQC	all_sections	ERR6913266_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913266_1_fastqc.zip
+FastQC	all_sections	ERR6913266_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913266_2_fastqc.zip
+FastQC	all_sections	ERR6913161_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913161_1_fastqc.zip
+FastQC	all_sections	ERR6913165_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913165_2_fastqc.zip
+FastQC	all_sections	ERR6913257_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913257_1_fastqc.zip
+FastQC	all_sections	ERR6913250_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913250_2_fastqc.zip
+FastQC	all_sections	ERR6913165_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913165_1_fastqc.zip
+FastQC	all_sections	ERR6913154_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913154_1_fastqc.zip
+FastQC	all_sections	ERR6913250_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913250_1_fastqc.zip
+FastQC	all_sections	ERR6913170_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913170_1_fastqc.zip
+FastQC	all_sections	ERR6913154_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913154_2_fastqc.zip
+FastQC	all_sections	ERR6913170_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913170_2_fastqc.zip
+FastQC	all_sections	ERR6913253_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913253_2_fastqc.zip
+FastQC	all_sections	ERR6913261_1	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913261_1_fastqc.zip
+FastQC	all_sections	ERR6913257_2	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/fastqc/ERR6913257_2_fastqc.zip
+FLASh	all_sections	x_mager_flash	/proj/applied_bioinformatics/users/x_mager/FASTQ_assignment/MedBioinfo/analyses/x_mager_flash.log

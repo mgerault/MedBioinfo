@@ -1,0 +1,5 @@
+Sample	total_reads	unpaired_total	unpaired_aligned_none	unpaired_aligned_one	unpaired_aligned_multi	overall_alignment_rate
+x_mager_bowtie_merged2PhiX	346498	346498	346498	0	0	0.0
+x_mager_bowtie_merged2SC2	346498	346498	346498	0	0	0.0
+x_mager_bowtie_merged2StrO	346498	346498	346498	0	0	0.0
+x_mager_bowtie_merged2StrS	346498	346498	344971	15	1512	0.44
